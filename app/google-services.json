@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973257854395",
+    "project_id": "unitydrop",
+    "storage_bucket": "unitydrop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973257854395:android:deefb985edac3462a4889e",
+        "android_client_info": {
+          "package_name": "com.example.unitydrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rSyQzSwLq9OHBhDDPedoiXI38nrWWx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
